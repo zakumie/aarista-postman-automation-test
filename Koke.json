@@ -1,0 +1,37 @@
+{
+    "patient": {
+        "personIdCardModels": [],
+        "addressModels": [
+            {
+                "addrTypeRefId": "6",
+                "street1": "783 Moore Pass",
+                "street2": "Skiles Orchard",
+                "city": "Aliteco Marid",
+                "state": "736",
+                "zip": "727",
+                "zip4": ""
+            }
+        ],
+        "communicationModels": [
+            {
+                "commTypeRefId": "14",
+                "commValue": "876-358-0447"
+            }
+        ],
+        "ssn": "66666666",
+        "firstName": "David",
+        "billingFirstName": "Earn",
+        "lastName": "Koke",
+        "billingLastName": "Kutcher",
+        "middleName": "Toni",
+        "billingMiddleName": "Ozil",
+        "dob": "1992-12-14T17:00:00.000Z",
+        "billingDob": "1992-12-14T17:00:00.000Z",
+        "adminGenderRefId": "10",
+        "genderAtBirthRefId": "10",
+        "idCardTypeRefId": "",
+        "idNumber": "",
+        "preferredCommRefId": "14"
+    },
+    "byPassDeduplication": false
+}
